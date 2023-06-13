@@ -1,0 +1,17 @@
+Baggage B001 checked in at Tue Jun 13 10:02:32 2023
+Baggage B002 checked in at Tue Jun 13 10:02:32 2023
+Scanning baggage B001...
+Baggage B001 scanned successfully.
+Scanning baggage B002...
+Baggage B002 scanned successfully.
+Baggage ID: B001
+Checked in: Yes
+Check-in Time: Tue Jun 13 10:02:32 2023
+--------------------------------
+Baggage ID: B002
+Checked in: Yes
+Check-in Time: Tue Jun 13 10:02:32 2023
+--------------------------------
+
+
+** Process exited - Return Code: 0 **
